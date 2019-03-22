@@ -1,0 +1,3 @@
+﻿2) - Geralmente programas orientados a objeto.
+
+3) - Para se fazer um programa ruim, basta fazer um código ruim, de dificil manutenção,sem prévio conhecimento do que se quer fazer, independente da linguagem.

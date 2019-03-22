@@ -1,0 +1,7 @@
+﻿
+
+Python - Linguagem imperativa, fortemente e dinamicamente tipada, com suporte a multipos paradigmas, como, funcional, estruturada, orientação a objeto e procedural.
+
+java - Linguagem imperativa, fortemente e estaticamente tipada, com suporte a orientação a objetos. transforma seus códigos em bytecodes, porém é necessário um JVM instalada em qualquer software que for utilizar a linguagem java.
+
+haskell - Linguagem declarativa, fortemente e estaticamente tipada, com suporte apenas ao paradigma funcional.
